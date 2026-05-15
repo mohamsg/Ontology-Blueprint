@@ -1,0 +1,2 @@
+Sample source text for analysis.
+It contains some entities and processes.
